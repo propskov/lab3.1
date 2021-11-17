@@ -74,6 +74,8 @@ public class Onelist {
         return tail != null ? tail.data : null;
     }
 
+
+
     public boolean contains(Integer data) {
         ListElement it = head;
         while (it != null) {

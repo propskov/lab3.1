@@ -27,8 +27,6 @@ public class Main {
         lst.printAll();
         System.out.println();
 
-
-
         lst.del(0);
         lst.printAll();
         System.out.println();
